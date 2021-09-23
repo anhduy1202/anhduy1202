@@ -12,7 +12,7 @@ I love writting what I've done and I've learned along doing my procjects - You c
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=anhduy1202&theme=tokyonight&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=6">
 
 <!---
 anhduy1202/anhduy1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
