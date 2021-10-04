@@ -1,7 +1,7 @@
 # Hi, I’m Daniel Truong!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 <a href=https://www.linkedin.com/in/truong-duy-12a4b5188/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
 
-👨 My name is Daniel Truong and I'm a sophomore studying Computer Science at Golden West College, CA. I'm from Vietnam and my goal is to become a software engineer.
+👨 My name is Daniel Truong and I'm a sophomore studying Computer Science. I'm from Vietnam and my goal is to become a software engineer.
 
 ## ✏️ My Blog
 
