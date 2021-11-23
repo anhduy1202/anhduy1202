@@ -5,7 +5,7 @@
 
 ## ✏️ My Blog
 
-I love writting what I've done and I've learned along doing my procjects - You can find my blogs on here: <a href="https://danieltruong.hashnode.dev"> Daniel Truong's blog </a>
+I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: <a href="https://danieltruong.hashnode.dev"> Daniel Truong's blog </a>
 
 
 ## 📈 Github Stats
