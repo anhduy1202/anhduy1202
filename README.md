@@ -3,17 +3,29 @@
 
 👨 My name is Daniel Truong and I'm studying Computer Science at CSUF class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 
-## Web Front-end:
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+```typescript
+class Daniel_Truong  {
+  class: number; school: string; pronouns:string[]; hobbies: string[]; 
+  constructor() {
+    this.class = 2024;
+    this.school =  "CSUF 🐘";
+    this.pronouns =  ["he/him"];
+    this.hobbies = ["basketball", "programming", "music", "Youtube"]
+  }
+}
 
-## Web Back-end
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
-
-## Mobile
-<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
-
-## Other
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+class Skills extends Daniel_Truong {
+  languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; other: string[]
+  constructor() {
+    super();
+    this.languages = ["Javascript", "TypeScript", "Swift", "SQL", "C++", "Go"];
+    this.frameworks = ["Next.js", "TailwindCSS", "Express"];
+    this.frontend = ["React", "HTML/CSS", "Redux", "Storybook"];
+    this.backend = ["Node", "MySQL","MongoDB","Mongoose","Firebase","Socket.io"];
+    this.other = ["Git/Github", "Agile", "npm", "Figma"]
+  }
+}
+```
 
 ## ✏️ My Blog
 
