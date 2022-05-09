@@ -15,12 +15,13 @@ class Daniel_Truong  {
 }
 
 class Skills extends Daniel_Truong {
-  languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; other: string[]
+  languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; mobile: sintrg[], other: string[]
   constructor() {
     super();
-    this.languages = ["Javascript", "TypeScript", "Swift", "SQL", "C++", "Go"];
+    this.languages = ["Javascript", "TypeScript", "Swift", "SQL", "C++", "Python"];
     this.frameworks = ["Next.js", "TailwindCSS", "Express"];
     this.frontend = ["React", "HTML/CSS", "Redux", "Storybook"];
+    this.mobile = ["React Native", "Swift Storyboard"];
     this.backend = ["Node", "MySQL","MongoDB","Mongoose","Firebase","Socket.io"];
     this.other = ["Git/Github", "Agile", "npm", "Figma"]
   }
