@@ -6,34 +6,18 @@
 
 👨 My name is Daniel Truong ( Quoc Truoong ) and I'm studying Computer Science at CSUF class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 
-```typescript
-class Daniel_Truong  {
-  class: number; school: string; pronouns:string[]; hobbies: string[]; 
-  constructor() {
-    this.class = 2024;
-    this.school =  "CSUF 🐘";
-    this.pronouns =  ["he/him"];
-    this.hobbies = ["basketball", "programming", "music", "Youtube"]
-  }
-}
-
-class Skills extends Daniel_Truong {
-  languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; mobile: sintrg[], other: string[]
-  constructor() {
-    super();
-    this.languages = ["Javascript", "TypeScript", "Swift", "SQL", "C++", "Python"];
-    this.frameworks = ["Next.js", "TailwindCSS", "Express"];
-    this.frontend = ["React", "HTML/CSS", "Redux", "Storybook"];
-    this.mobile = ["React Native", "Swift Storyboard"];
-    this.backend = ["Node", "MySQL","MongoDB","Mongoose","Firebase","Socket.io"];
-    this.other = ["Git/Github", "Agile", "npm", "Figma"]
-  }
-}
+```python
+class Daniel_Truong:
+  def __init__(self):
+    self.class = 2024
+    self.school = "CSUF 🐘"
+    self.pronouns = "he/him"
+    self.hobbies = ["basketball", "programming", "music", "Youtube"]
 ```
 
 ## ✏️ My Blog
 
-I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: <a href="https://danieltruong.hashnode.dev"> Daniel Truong's blog </a>
+I love writting what I've done and I've learned along doing my projects - You can find my blogs on [HashNode](https://danieltruong.hashnode.dev) or [acmCSUF Blog](https://acmcsuf.com/blog)
 
 
 ## 📈 Github Stats
