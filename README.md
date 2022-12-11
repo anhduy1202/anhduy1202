@@ -4,7 +4,7 @@
 <a href=https://www.linkedin.com/in/truong-duy-1122001/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
 
 
-👨 My name is Daniel Truong ( Quoc Truong ) and I'm studying Computer Science at CSUF class of 2024. I'm from Vietnam and my goal is to become a software engineer.
+👨 My name is Daniel Truong and I'm studying Computer Science at CSUF class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 
 ```python
 class Daniel_Truong:
@@ -13,6 +13,7 @@ class Daniel_Truong:
     self.school = "CSUF 🐘"
     self.pronouns = "he/him"
     self.hobbies = ["basketball", "programming", "music", "Youtube"]
+    self.programming_languages = ["Python", "TypeScript", "JavaScript", "Swift"]
 ```
 
 ## ✏️ My Blog
