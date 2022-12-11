@@ -34,9 +34,16 @@ I love writting what I've done and I've learned along doing my projects - You ca
 
 ## ✨ Project Showcase
 * [Scrappy C](https://github.com/anhduy1202/Scrappy-C) - Web Scraper CLI application in C
+* [Collatz-Conjecture](https://github.com/anhduy1202/Collatz-Conjecture) - Collatz Conjecture with POSIX message queue, threads in C
 * [Reddat](https://github.com/anhduy1202/Not-Reddit) - Reddit clone
 * [Spotify Recommendation System](https://github.com/anhduy1202/Spotify-Recommendation-Systems) - Spotify Playlist recommendation system with K-Means & Content-based filtering
-
+* [Gameboy Simulator](https://github.com/anhduy1202/gameboySimulator) - Desktop application that simulate Gameboy retro image style with PyQT5, OpenCV
+* [Squirrel Contour Detection](https://github.com/anhduy1202/SquirrelContourDetection) - Contour Detection using Computer Vision
+* [Demon Slayer API](https://github.com/anhduy1202/demon-slayer-api) - Web-scraped API for Demon Slayer Anime
+* [TuffyFood](https://github.com/anhduy1202/TuffyFood) - IOS On-campus Food Review App for CSUF students using Swift
+* [Wordiee](https://github.com/anhduy1202/wordiee) - Wordle Clone with React, TypeScript, Redux
+* [Git-Readme](https://github.com/anhduy1202/Git-Readme) - Website to make your Github Readme cooler
+* [Better Tic-tac-toe](https://github.com/anhduy1202/better-tic-tac-toe-client) - Multiplayer Tic-Tac-Toe web game
 
 <!---
 anhduy1202/anhduy1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
