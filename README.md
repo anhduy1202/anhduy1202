@@ -31,6 +31,13 @@ I love writting what I've done and I've learned along doing my projects - You ca
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=6">
 
+
+<details><summary>Stargazing</summary>
+
+[Reddat](https://github.com/anhduy1202/Not-Reddit) 29⭐️
+
+</details>
+
 <!---
 anhduy1202/anhduy1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
