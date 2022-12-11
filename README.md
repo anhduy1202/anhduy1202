@@ -1,6 +1,9 @@
 # Hi, I’m Daniel Truong!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+![Group 1](https://user-images.githubusercontent.com/58461444/206890835-73790b59-6e7c-445b-ae82-ce2c7eaa07d0.png)
+
+
 <a href=https://www.linkedin.com/in/truong-duy-1122001/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
 
 
