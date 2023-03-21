@@ -33,6 +33,8 @@ I love writting what I've done and I've learned along doing my projects - You ca
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
+* [Fullyhacks 2023](https://github.com/anhduy1202/fullyhacks) - CSUF's hackathon full-stack website [WIP]
+* [WordCloud Vote](https://github.com/anhduy1202/wordcloud-vote) - Full-stack Poll Platform with Next, TailwindCSS, Prisma, MongoDB 
 * [Scrappy C](https://github.com/anhduy1202/Scrappy-C) - Web Scraper CLI application in C
 * [Collatz-Conjecture](https://github.com/anhduy1202/Collatz-Conjecture) - Collatz Conjecture with POSIX message queue, threads in C
 * [Reddat](https://github.com/anhduy1202/Not-Reddit) - Reddit clone
