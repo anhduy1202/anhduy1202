@@ -32,7 +32,7 @@ I love writting what I've done and I've learned along doing my projects - You ca
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=6">
 
-## 🥹 Leetcode Stats
+## 😫 Leetcode Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/anhduy1202?theme=dark&font=source_code_pro&extension=null)
 
 ## ✨ Project Showcase
