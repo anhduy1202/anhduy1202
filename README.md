@@ -32,12 +32,12 @@ I love writting what I've done and I've learned along doing my projects - You ca
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=6">
 
-## 😫 Leetcode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/anhduy1202?theme=dark&font=source_code_pro&extension=null)
-
 ## ✨ Project Showcase
-* [TranscendCare](https://github.com/anhduy1202/transcendCare) - Transgender-centered platform [WIP]
-* [Fullyhacks 2023](https://github.com/anhduy1202/fullyhacks) - CSUF's hackathon full-stack website
+* [MyClubBoard](https://github.com/anhduy1202/MyClubBoard) - Find club position for university students [WIP]
+* [Fullyhacks](https://github.com/anhduy1202/fullyhacks) - CSUF's hackathon full-stack website [WIP for 2024]
+* [Youtube Video Comment Sentiment Analyzer](https://github.com/anhduy1202/YVCSE) - [Private] Analyze comments from YT video
+* [TranscendCare](https://github.com/anhduy1202/transcendCare) - Transgender-centered platform 
+* [Space Invaders](https://github.com/anhduy1202/space-invaders) - Space Invader made with PyGame
 * [WordCloud Vote](https://github.com/anhduy1202/wordcloud-vote) - Full-stack Poll Platform with Next, TailwindCSS, Prisma, MongoDB 
 * [Scrappy C](https://github.com/anhduy1202/Scrappy-C) - Web Scraper CLI application in C
 * [Collatz-Conjecture](https://github.com/anhduy1202/Collatz-Conjecture) - Collatz Conjecture with POSIX message queue, threads in C
