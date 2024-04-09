@@ -33,9 +33,10 @@ I love writting what I've done and I've learned along doing my projects - You ca
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
-* [MyClubBoard](https://github.com/anhduy1202/MyClubBoard) - Find club position for university students [WIP]
-* [Fullyhacks](https://github.com/anhduy1202/fullyhacks) - CSUF's hackathon full-stack website [WIP for 2024]
-* [Youtube Video Comment Sentiment Analyzer](https://github.com/anhduy1202/YVCSE) - [Private] Analyze comments from YT video
+* [Bunnyhacks](https://github.com/anhduy1202/BunnyHacks) - ACM at CSUF 1-week Spring virtual hackathon 2024
+* [MyClubBoard](https://github.com/anhduy1202/MyClubBoard) - Find club position for university students
+* [Fullyhacks](https://github.com/anhduy1202/fullyhacks) - CSUF's hackathon full-stack website 2023 & 2024
+* [Youtube Video Comment Sentiment Analyzer](https://github.com/anhduy1202/YVCSE) - Sentiment Analysis comments from YT video
 * [TranscendCare](https://github.com/anhduy1202/transcendCare) - Transgender-centered platform 
 * [Space Invaders](https://github.com/anhduy1202/space-invaders) - Space Invader made with PyGame
 * [WordCloud Vote](https://github.com/anhduy1202/wordcloud-vote) - Full-stack Poll Platform with Next, TailwindCSS, Prisma, MongoDB 
